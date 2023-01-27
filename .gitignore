@@ -1,3 +1,9 @@
+# hidden files
+.*
+
+# coverage file
+*.coverage
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
