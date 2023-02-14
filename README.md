@@ -10,7 +10,7 @@ All ISO3166 country codes have to passed as UPPERCASE and returns UPPERCASE
 
 ## Usage
 
-```
+```golang
 package main
 
 import (
